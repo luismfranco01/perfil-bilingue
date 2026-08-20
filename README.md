@@ -14,7 +14,7 @@ A public web page with six sections:
 | Section | What goes there |
 |---|---|
 | Home | Your name, your role, your links |
-| About | Two or three sentences about you |
+| About | I am student of web programing. I use my computer to programming and doing the classworks. I want to learn more english to understand the codes structure |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
