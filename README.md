@@ -13,7 +13,7 @@ A public web page with six sections:
 
 | Section | What goes there |
 |---|---|
-| Home | Luis Miguel Franco Hernández, Web Programmer Student, your links |
+| Home | Luis Miguel Franco Hernández, Web Programmer Student |
 | About | I am student of systems engineering . I use my computer to programming and learning about technology. I'm also improving my english skills |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
