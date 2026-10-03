@@ -15,10 +15,10 @@ A public web page with six sections:
 |---|---|
 | Home | Luis Miguel Franco Hernández, Web Programmer Student |
 | About | I am student of systems engineering . I use my computer to programming and learning about technology. I'm also improving my english skills |
-| Skills | Student and developer in web proggraming, English level B1 as defined by the Common European Framework of Reference for Languages |
+| Skills | Student and developer in web programming, English level A2 as defined by the Common European Framework of Reference for Languages |
 | Resume | Graduated of hight school in Liceo María José and currently studyng in UniEspinal, University |
 | Projects | There isn't any project to share |
-| Contact | You can send a email to lfranco07itfip.edu.co |
+| Contact | Not available |
 
 ---
 
